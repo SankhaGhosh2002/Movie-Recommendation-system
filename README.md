@@ -7,3 +7,6 @@ Recommendation systems play a crucial role in various industries by enhancing us
 
 # About This Project 
 This Streamlit-based Movie Recommendation System helps users discover similar movies based on their preferences. It utilizes a precomputed similarity matrix to find and suggest the top 5 most relevant movies based on the selected title. The system applies cosine similarity, a widely used metric for comparing movie feature vectors, ensuring accurate recommendations. Users interact with a simple dropdown menu, and upon selection, the app dynamically displays personalized movie suggestions. Built using Python, Pandas, and Streamlit, it provides a seamless and engaging experience, making movie exploration easy and efficient. Future enhancements could include movie posters, ratings, and genre-based filtering for improved recommendations. 🚀
+
+# Data set link: 
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
